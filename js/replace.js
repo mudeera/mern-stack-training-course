@@ -1,4 +1,4 @@
 let naam = " mudeera";
-let name = naam.re;
+let name = naam.replace("ude", "A");
 
 console.log(name);
