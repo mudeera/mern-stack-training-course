@@ -1,0 +1,1298 @@
+<!DOCTYPE html>
+<!-- saved from url=(0037)http://samawatmarketing.com/index.php -->
+<html lang="en"><!-- Added by HTTrack --><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!-- /Added by HTTrack -->
+
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5, user-scalable=1" name="viewport">
+    <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/fontawesome.min.css">-->
+    <link rel="stylesheet" href="./Samawat5_files/font-awesome.min.css">
+    <script src="./Samawat5_files/platform.js.download" defer=""></script>
+    </head><body class="blue-skin"><div class="elfsight-app-58ccaedb-0924-486c-9bd2-f87ed6cc2f1a"></div>
+
+    <meta name="csrf-token" content="iwRzunXISlAErugc15sEm4nbFfgMSAZTJ6tRZbDX">
+
+    <!-- Fonts-->
+    <link href="./Samawat5_files/css2" rel="stylesheet" type="text/css">
+    <link href="./Samawat5_files/css" rel="stylesheet" type="text/css">
+    <!-- CSS Library-->
+
+    <style>
+    :root {
+        --primary-color: #2b4db9;
+        --font-body: Muli, sans-serif;
+        --font-heading: Jost, sans-serif;
+    }
+    </style>
+
+    <script>
+    "use strict";
+    window.trans = {
+        "Price": "Price",
+        "Number of rooms": "Number of rooms",
+        "Number of rest rooms": "Number of rest rooms",
+        "Square": "Square",
+        "No property found": "No property found",
+        "million": "million",
+        "billion": "billion",
+        "in": "in",
+        "Added to wishlist successfully!": "Added to wishlist successfully!",
+        "Removed from wishlist successfully!": "Removed from wishlist successfully!",
+        "I care about this property!!!": "I care about this property!!!",
+        "See More Reviews": "See More Reviews",
+        "Reviews": "Reviews",
+        "out of 5.0": "out of 5.0",
+        "service": "Service",
+        "value": "Value for Money",
+        "location": "Location",
+        "cleanliness": "Cleanliness",
+    }
+    window.themeUrl = 'themes/resido/index.html';
+    window.siteUrl = 'index.html';
+    window.currentLanguage = 'en';
+    </script>
+
+    <link rel="shortcut icon" href="http://samawatmarketing.com/storage/img-20221102-wa0141.jpg">
+
+    <title>Samawat Marketing</title>
+    <meta name="description" content=".">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:site_name" content="Samawat Marketing">
+    <meta property="og:title" content="Samawat Marketing">
+    <meta property="og:description" content=".">
+    <meta property="og:url" content="https://samawatmarketing.com">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="https://samawatmarketing.com/storage/0bec7445-07ba-42ce-bd1f-4923daf45b77.jpg">
+    <meta name="twitter:title" content="Samawat Marketing">
+    <meta name="twitter:description" content=".">
+
+    <link media="all" type="text/css" rel="stylesheet" href="./Samawat5_files/cookie-consente209.css">
+    <link media="all" type="text/css" rel="stylesheet" href="./Samawat5_files/language-publice209.css">
+    <link media="all" type="text/css" rel="stylesheet" href="./Samawat5_files/animation.css">
+    <link media="all" type="text/css" rel="stylesheet" href="./Samawat5_files/bootstrap.min.css">
+    <link media="all" type="text/css" rel="stylesheet" href="./Samawat5_files/ion.rangeSlider.min.css">
+    <link media="all" type="text/css" rel="stylesheet" href="./Samawat5_files/dropzone.css">
+    <link media="all" type="text/css" rel="stylesheet" href="./Samawat5_files/select2.css">
+    <link media="all" type="text/css" rel="stylesheet" href="./Samawat5_files/slick.css">
+    <link media="all" type="text/css" rel="stylesheet" href="./Samawat5_files/slick-theme.css">
+    <link media="all" type="text/css" rel="stylesheet" href="./Samawat5_files/font-awesome.css">
+    <link media="all" type="text/css" rel="stylesheet" href="./Samawat5_files/icofont.css">
+    <link media="all" type="text/css" rel="stylesheet" href="./Samawat5_files/light-box.css">
+    <link media="all" type="text/css" rel="stylesheet" href="./Samawat5_files/line-icon.css">
+    <link media="all" type="text/css" rel="stylesheet" href="./Samawat5_files/themify.css">
+    <link media="all" type="text/css" rel="stylesheet" href="./Samawat5_files/style707e.css">
+
+    <link media="all" type="text/css" rel="stylesheet" href="./Samawat5_files/style.integration95e8.css">
+
+    <script src="./Samawat5_files/jquery.min.js.download"></script>
+
+
+    <link rel="alternate" href="http://samawatmarketing.com/vi.html" hreflang="vi">
+    <link type="application/atom+xml" rel="alternate" title="Properties feed" href="http://samawatmarketing.com/feed/properties">
+    <link type="application/atom+xml" rel="alternate" title="Properties feed" href="http://samawatmarketing.com/vi/feed/properties">
+    <link type="application/atom+xml" rel="alternate" title="Posts feed" href="http://samawatmarketing.com/feed/posts">
+    <link type="application/atom+xml" rel="alternate" title="Posts feed" href="http://samawatmarketing.com/vi/feed/posts">
+
+
+
+
+
+    <div id="alert-container"></div>
+
+
+    <!-- ============================================================== -->
+    <!-- Main wrapper - style you can find in pages.scss -->
+    <!-- ============================================================== -->
+    <div id="main-wrapper">
+
+        <!-- ============================================================== -->
+        <!-- Top header  -->
+
+        <div class="topbar bg-brand p-2 d-none d-sm-block">
+            <div class="container">
+                <div class="d-flex align-items-center justify-content-between">
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ============================================================== -->
+    <!-- Start Navigation -->
+    
+
+
+
+
+
+<div class="header header-light head-shadow header-fixed">
+    <div class="container">
+        <nav id="navigation" class="navigation navigation-landscape">
+            <div class="nav-header">
+                <a class="nav-brand" href="http://samawatmarketing.com/index.php"><img class="logo" src="./Samawat5_files/samawat-logo.png" alt=""></a>
+                <div class="nav-toggle"></div>
+            </div>
+            <div class="nav-menus-wrapper" style="transition-property: none;margin-left:80px !important;"><span class="nav-menus-wrapper-close-button">✕</span>
+                <ul class="nav-menu">
+                    <li class="  ">
+                        <a href="http://samawatmarketing.com/index.php">
+                            Home
+                        </a>
+                    </li>
+
+
+                    <li class=" menu-item-has-children    current-menu-item ">
+                        <a href="http://samawatmarketing.com/about-us.php">
+                            About Us
+                        <span class="submenu-indicator"><span class="submenu-indicator-chevron"></span></span></a>
+                        <ul class="nav-dropdown nav-submenu" style="right: auto;">
+
+                        <li class="">
+                                <a href="http://samawatmarketing.com/ceo-message.php">CEO Message
+
+                                </a>
+                            </li>
+
+                            <li class="">
+                                <a href="http://samawatmarketing.com/vision.php">Our Visions
+
+                                </a>
+                            </li>
+                      
+
+
+
+
+                        </ul>
+
+                    </li>
+
+
+                   
+                    <!-- <li class="  ">
+                            <a href="properties.php">
+                                Properities
+                            </a>
+                        </li> -->
+                    <!-- <li class="  ">
+                            <a href="login.php">
+                                listing
+                            </a>
+                        </li> -->
+                    <li class=" menu-item-has-children    current-menu-item ">
+                        <a href="http://samawatmarketing.com/projects.php">
+                            Projects
+                        <span class="submenu-indicator"><span class="submenu-indicator-chevron"></span></span></a>
+                        <ul class="nav-dropdown nav-submenu" style="right: 0px;">
+                            
+
+                            <li class="  ">
+                                <a href="http://samawatmarketing.com/project-detail.php?id=8">
+                                    Bahria Town Karachi 2                                </a>
+                            </li>
+
+                            
+
+                            <li class="  ">
+                                <a href="http://samawatmarketing.com/project-detail.php?id=9">
+                                    Faisal Town Phase 2                                </a>
+                            </li>
+
+                            
+
+                            <li class="  ">
+                                <a href="http://samawatmarketing.com/project-detail.php?id=10">
+                                    Kingdom Valley                                </a>
+                            </li>
+
+                            
+
+                            <li class="  ">
+                                <a href="http://samawatmarketing.com/project-detail.php?id=11">
+                                    Park View City                                </a>
+                            </li>
+
+                            
+
+                            <li class="  ">
+                                <a href="http://samawatmarketing.com/project-detail.php?id=12">
+                                    Nova City Islamabad                                </a>
+                            </li>
+
+                            
+
+                            <li class="  ">
+                                <a href="http://samawatmarketing.com/project-detail.php?id=13">
+                                    AL Karim Residence                                </a>
+                            </li>
+
+                            
+
+                            <li class="  ">
+                                <a href="http://samawatmarketing.com/project-detail.php?id=14">
+                                    Blue World City                                </a>
+                            </li>
+
+                            
+
+                            <li class="  ">
+                                <a href="http://samawatmarketing.com/project-detail.php?id=15">
+                                    MPCHS Multi Gardens Phase 2                                </a>
+                            </li>
+
+                            
+
+                            <li class="  ">
+                                <a href="http://samawatmarketing.com/project-detail.php?id=16">
+                                    Bahria Town Karachi 2                                </a>
+                            </li>
+
+                            
+
+                            <li class="  ">
+                                <a href="http://samawatmarketing.com/project-detail.php?id=17">
+                                    New City Paradise Islamabad                                </a>
+                            </li>
+
+                            
+
+
+                        </ul>
+
+                    </li>
+                    <li class="  ">
+                        <a href="http://samawatmarketing.com/contact.php">
+                            Contact
+                        </a>
+                    </li>
+                </ul>
+
+
+                <ul class="nav-menu nav-menu-social align-to-right">
+
+
+                </ul>
+
+
+                <div class="clearfix"></div>
+                <div class="d-sm-none mobile-menu">
+
+
+                </div>
+            </div>
+        </nav>
+    </div>
+</div>
+
+<style>
+.cn-info-title-s {
+    color: #606060;
+    font-size: 13px;
+    font-size: 17px;
+    /* margin-bottom: -1px; */
+    text-align: justify;
+    /* line-height: 22px; */
+}
+
+.cn-info-title-s {
+    font-size: 18px;
+    margin-bottom: 2px;
+    text-align: justify;
+}
+
+.single-post-item {
+    background: #fff;
+    border: 2px solid #e5e8f3;
+    /* border-radius: 6px; */
+    display: block;
+    margin-bottom: 0px !important;
+    padding: 20px;
+    width: 100%;
+}
+
+.image_resized img {
+    object-fit: cover;
+    transition: all 0.6s ease-in-out;
+    cursor: pointer;
+}
+
+.image_resized img:hover {
+    transform: scale(1.1);
+}
+
+.navigation {
+    display: table;
+    font-family: inherit;
+    height: 70px;
+    position: relative;
+    width: 100%;
+    display: flex !important;
+    justify-content: space-between !important;
+}
+
+.item-sorting-box {
+    align-items: center;
+    display: flex;
+    margin-bottom: 0em !important;
+    width: 100%;
+}
+
+
+.aboutus-section {
+    padding: 90px 0;
+}
+
+.aboutus-title {
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 32px;
+    margin: 0 0 39px;
+    padding: 0 0 11px;
+    position: relative;
+    text-transform: uppercase;
+    color: #000;
+}
+
+.aboutus-title::after {
+    background: #2540a2 none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    height: 2px;
+    left: 0;
+    position: absolute;
+    width: 54px;
+}
+
+.aboutus-text {
+    color: #606060;
+    font-size: 13px;
+    line-height: 22px;
+    margin: 0 0 35px;
+}
+
+a:hover,
+a:active {
+    color: #ffb901;
+    text-decoration: none;
+    outline: 0;
+}
+
+.aboutus-more {
+    border: 1px solid #2540a2;
+    border-radius: 25px;
+    color: #2540a2;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0;
+    padding: 7px 20px;
+    text-transform: uppercase;
+}
+
+.feature .feature-box .iconset {
+    background: #fff none repeat scroll 0 0;
+    float: left;
+    position: relative;
+    width: 18%;
+}
+
+.feature .feature-box .iconset::after {
+    background: #2540a2 none repeat scroll 0 0;
+    content: "";
+    height: 150%;
+    left: 43%;
+    position: absolute;
+    top: 100%;
+    width: 1px;
+}
+
+.feature .feature-box .feature-content h4 {
+    color: #0f0f0f;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin: 0 0 5px;
+}
+
+
+.feature .feature-box .feature-content {
+    float: left;
+    padding-left: 28px;
+    width: 78%;
+}
+
+.feature .feature-box .feature-content h4 {
+    color: #0f0f0f;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin: 0 0 5px;
+}
+
+.icon {
+    color: #f4b841;
+    padding: 0px;
+    font-size: 40px;
+    border: 1px solid #2540a2;
+    border-radius: 100px;
+    color: #2540a2;
+    font-size: 28px;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    width: 70px;
+}
+}
+
+
+img.image-ceo img {
+    height: 80vh !important;
+
+    float: right !important;
+}
+
+.ceo-message {
+    background: #f8f8f8;
+    padding: 50px 0;
+}
+
+.our-mission {
+    background: white;
+    padding: 50px 0;
+}
+
+.button-services {
+    background: black;
+    height: 8vh;
+    width: 70px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 28px;
+    color: white;
+    margin: 0 10px 0 0;
+}
+
+.our-servicess {
+    background: #2F56B0;
+    padding: 50px 0;
+}
+
+
+
+.visionss {
+    color: white;
+    position: relative;
+    display: inline-block;
+    text-align: center !important;
+    text-decoration: none;
+    transition: color .4s ease-out;
+}
+
+.visionss::after {
+    border-top: .2em solid #2F56B0;
+    border-radius: 2em;
+    content: "";
+    position: absolute;
+    right: 100%;
+    bottom: .14em;
+    left: 0;
+    transition: right .4s cubic-bezier(0, .5, 0, 1),
+        border-color .4s ease-out;
+}
+
+.visionss:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.visionss:hover::after {
+    border-color: #457DFB;
+    right: 0;
+    animation: anchor-underline 1.5s cubic-bezier(0, .5, 0, 1) infinite;
+}
+
+.services-titles {
+    background: white;
+    /* padding: 20px 111px; */
+    border-radius: 65px;
+    /* height: 20vh; */
+    height: 8vh;
+    width: 70%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.services-titles p {
+    font-weight: 900;
+    font-size: 20px;
+    text-transform: capitalize;
+    overflow: hidden;
+    color: #2F56B0;
+}
+
+.visions {
+    color: #2F56B0;
+    position: relative;
+    display: inline-block;
+    text-align: center !important;
+    text-decoration: none;
+    transition: color .4s ease-out;
+}
+
+.visions::after {
+    border-top: .2em solid #2F56B0;
+    border-radius: 2em;
+    content: "";
+    position: absolute;
+    right: 100%;
+    bottom: .14em;
+    left: 0;
+    transition: right .4s cubic-bezier(0, .5, 0, 1),
+        border-color .4s ease-out;
+}
+
+.visions:hover {
+    color: #457DFB;
+    text-decoration: none;
+}
+
+.visions:hover::after {
+    border-color: #457DFB;
+    right: 0;
+    animation: anchor-underline 1.5s cubic-bezier(0, .5, 0, 1) infinite;
+}
+
+@keyframes anchor-underline {
+
+    0%,
+    10% {
+        left: 0;
+        right: 100%;
+    }
+
+    40%,
+    60% {
+        left: 0;
+        right: 0;
+    }
+
+    90%,
+    100% {
+        left: 100%;
+        right: 0;
+    }
+}
+
+/* Responsive Mobile */
+@media(max-width:796px) {
+    .col-md-6.col-sm-12.col-lg-6.col--second {
+        padding-top: 30px;
+    }
+
+    ul.social-wraps {
+
+        display: grid !important;
+    }
+}
+
+.row.second-services-row {
+    padding-top: 30px !important;
+}
+
+.footer-samawat {
+    padding: 50px 0;
+    background-color: #000000;
+}
+
+.office-address p {
+    color: white;
+
+    text-align: justify;
+}
+
+.visions_footer {}
+
+ul {
+    padding-left: 0em !important;
+}
+
+.visions_footer {
+    padding: 10px 0;
+    color: white;
+    position: relative;
+    display: inline-block;
+    text-align: center !important;
+    text-decoration: none;
+    transition: color .4s ease-out;
+}
+
+.visions_footer::after {
+    border-top: .2em solid #2F56B0;
+    border-radius: 2em;
+    content: "";
+    position: absolute;
+    right: 100%;
+    bottom: .14em;
+    left: 0;
+    transition: right .4s cubic-bezier(0, .5, 0, 1),
+        border-color .4s ease-out;
+}
+
+.visions_footer:hover {
+    color: #457DFB;
+    text-decoration: none;
+}
+
+.visions_footer:hover::after {
+    border-color: #457DFB;
+    right: 0;
+    animation: anchor-underline 1.5s cubic-bezier(0, .5, 0, 1) infinite;
+}
+
+@keyframes anchor-underline {
+
+    0%,
+    10% {
+        left: 0;
+        right: 100%;
+    }
+
+    40%,
+    60% {
+        left: 0;
+        right: 0;
+    }
+
+    90%,
+    100% {
+        left: 100%;
+        right: 0;
+    }
+}
+
+.footer--address li a {
+    color: white;
+    text-align: justify;
+}
+
+    {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 0.7px solid white;
+}
+
+.inner-footer {
+    background: black;
+    text-align: center;
+    padding: 12px;
+    border-top: 1px solid white;
+    color: white;
+    font-weight: bold;
+}
+
+.social-wraps {
+    display: table;
+    width: 100%;
+    text-align: center;
+}
+
+.social-wraps li {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.social-wrapsli a {
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+    color: #6b6957;
+}
+
+.social-wraps {
+    -webkit-transition: all .3s linear;
+    transition: all .3s linear;
+}
+
+span.social-color-schem {
+    color: white;
+    font-size: 20px;
+    padding-right: 6px;
+}
+
+.icon-title-style {
+    color: white;
+}
+
+.icon-title-style:hover {
+    color: #2F56B0;
+}
+
+.social-color-schem:hover {
+    color: #2F56B0;
+}
+
+.social-iconss-all {
+    padding: 30px 0;
+}
+
+.feature {
+    padding-top: 76px;
+}
+
+p.cn-info-title-s.txtt-aree {
+    margin-top: 25px;
+}
+.ceo-nam{
+    padding-top:5px !important;
+}
+.ceo--img{
+padding:10px;    height: 60vh !important;
+    float: right;
+    width: 100%;
+}
+
+
+.input--types input {
+    margin-top: 25px;
+}
+
+@media(min-width: 1600px) {
+.raw-html-embed.my-5 {
+    padding-top: 3rem !important;
+}
+}
+@media(min-width: 1700px) {
+.raw-html-embed.my-5 {
+    padding-top: 6rem !important;
+}
+}
+@media(min-width: 1800px) {
+.raw-html-embed.my-5 {
+    padding-top: 9rem !important;
+}
+}
+@media(min-width: 1850px) {
+.raw-html-embed.my-5 {
+    padding-top: 10rem !important;
+}
+}
+
+
+
+</style>    <!-- End Navigation -->
+    <div class="clearfix"></div>
+
+    <a href="https://api.whatsapp.com/send?phone=+923320000222&amp;text=Welcome%20To%20Samawat%20Marketing" class="float" target="_blank">
+        <i class="fab fa-whatsapp my-float"></i>
+    </a>
+
+
+
+    <style type="text/css">
+    @media(max-width:500px) {
+        footer.dark-footer.skin-dark-footer {
+            padding-left: 25px !important;
+        }
+    }
+
+
+    .header.header-light.head-shadow {
+        height: 100px;
+    }
+
+    img.logo {
+        height: 70px;
+    }
+
+
+    .note.note-warning {
+        display: none;
+    }
+
+    .widget_shortcode {
+        display: none !important;
+    }
+
+    .Bubble__BubbleComponent-sc-13azvyr-3.klHtAs {
+        display: none !important;
+    }
+    </style>
+
+    <style>
+    .float {
+        position: fixed;
+        width: 60px;
+        height: 60px;
+        bottom: 97px;
+        right: 45px;
+        background-color: #25d366;
+        color: #FFF;
+        border-radius: 50px;
+        text-align: center;
+        font-size: 30px;
+        box-shadow: 2px 2px 3px #999;
+        z-index: 100;
+    }
+
+    .my-float {
+        margin-top: 16px;
+    }
+
+
+
+
+    .Window__Component-sc-1wwhwms-0.cRLSYG {
+        display: none !important;
+    }
+
+
+    .Icon__Component-sc-19xn1fe-0.dmSroK.Bubble__StyledIcon-sc-13azvyr-1.drBMdB {
+        display: none !important;
+    }
+
+    .dSrkcb::before,
+    .dSrkcb::after {
+
+        display: none !important;
+    }
+
+    .Bubble__BubbleComponent-sc-13azvyr-3 {
+        display: none !important;
+    }
+
+
+    /*
+after advanced*/
+    .list-price {
+        display: none !important;
+    }
+
+    #reviewWrapper {
+        display: none !important;
+    }
+
+    img.img-fluid {
+        width: 100% !important;
+    }
+
+
+    figure.image.image_resized {
+        display: block !important;
+        margin-right: auto !important;
+        margin-left: auto !important;
+    }
+
+    /*end After Advanced*/
+    </style>
+
+    <div id="app"><div id="ismain-homes"><div class="main--banner" style="position: relative;"><video autoplay="autoplay" muted="muted" loop="loop" class="videoembed" style="width: 100%; position: absolute !important; top: 0px !important; left: 0px !important;"><source src="public/Comp1.mp4" type="video/mp4"></video> <div class="image-cover hero-banner" style="z-index: 9 !important; padding: 8em 0px;"><div class="container"><div class="hero-search-wrap"><div class="hero-search"><h1>Find Accessible Plot For Sale</h1></div> <form action="http://samawatmarketing.com/Search-project.php" method="POST" id="frmhomesearch"><div class="hero-search-content side-form"><div class="row"><div class="col-lg-12 col-md-12 col-sm-12"><div class="form-group"><div class="input--types"><input type="text" name="type" placeholder="Search By Properties.Like Blue World City" class="form-control" fdprocessedid="4j8jwl"></div></div></div></div> <div class="row"><div class="col-lg-12 col-md-12 col-sm-12"><div class="form-group"><div class="input-with-icon input--types"><input type="text" name="location" placeholder="Search for a location" class="form-control" fdprocessedid="u1f7n8"> <img src="./Samawat5_files/pin.svg" width="18" alt=""></div></div></div></div> <div class="row"><div class="col-lg-12 col-md-12 col-sm-12"><div class="form-group"><div class="input--types"><input type="text" name="city" placeholder="Search for a City" class="form-control" fdprocessedid="amdapx"></div></div></div></div></div> <div class="hero-search-action input--types"><input name="search_properties" type="submit" value="Search Result" class="btn search-btn" fdprocessedid="m4hh7n"></div></form></div></div></div></div> <div class="raw-html-embed my-5"><section><div class="container"><div class="row justify-content-center"><div class="col-lg-7 col-md-10 text-center"><div class="sec-heading center"><h2 class="visions">How It Works?</h2></div></div></div> <div class="row"><div class="col-lg-4 col-md-4"><div class="middle-icon-features-item"><div class="icon-features-wrap"><div class="middle-icon-large-features-box f-light-success"><i class="ti-receipt text-success"></i></div></div> <div class="middle-icon-features-content"><h4>Evaluate Property</h4></div></div></div> <div class="col-lg-4 col-md-4"><div class="middle-icon-features-item"><div class="icon-features-wrap"><div class="middle-icon-large-features-box f-light-warning"><i class="ti-user text-warning"></i></div></div> <div class="middle-icon-features-content"><h4>Meet Your Agent</h4></div></div></div> <div class="col-lg-4 col-md-4"><div class="middle-icon-features-item remove"><div class="icon-features-wrap"><div class="middle-icon-large-features-box f-light-blue"><i class="ti-shield text-blue"></i></div></div> <div class="middle-icon-features-content"><h4>Close The Deal</h4></div></div></div></div></div></section></div> <div class="our-servicess"><div class="container"><div class="sec-heading center"><h2 class="visionss">OUR
+                            SERVICE’S</h2></div> <div class="row"><div class="col-md-6 col-sm-12 col-lg-6"><div class="services-title d-flex justify-content-center align-items-center"><div class="button-services"><i aria-hidden="true" class="fa fa-check"></i></div> <div class="services-titles"><p>Real Estate Marketing</p></div></div></div> <div class="col-md-6 col-sm-12 col-lg-6 col--second"><div class="services-title d-flex justify-content-center align-items-center"><div class="button-services"><i aria-hidden="true" class="fa fa-check"></i></div> <div class="services-titles"><p>Real Estate Consultancy</p></div></div></div></div> <div class="row second-services-row"><div class="col-md-6 col-sm-12 col-lg-6"><div class="services-title d-flex justify-content-center align-items-center"><div class="button-services"><i aria-hidden="true" class="fa fa-check"></i></div> <div class="services-titles"><p>Real Estate Solutions</p></div></div></div> <div class="col-md-6 col-sm-12 col-lg-6 col--second"><div class="services-title d-flex justify-content-center align-items-center"><div class="button-services"><i aria-hidden="true" class="fa fa-check"></i></div> <div class="services-titles"><p>Property Management</p></div></div></div></div> <div class="row second-services-row "><div class="col-md-6 col-sm-12 col-lg-6 "><div class="services-title d-flex justify-content-center align-items-center"><div class="button-services"><i aria-hidden="true" class="fa fa-check"></i></div> <div class="services-titles"><p>Investment Management</p></div></div></div></div></div></div> <section style="background-color: white;"><div class="container"><div class="row"><div class="col text-center"><div class="sec-heading center"><h2 class="visions">Projects</h2></div></div></div> <div class="row"><div class="col-sm-12"><div class="scontent"><div class="row"><div class="col-lg-4 col-md-6"><div class="blog-wrap-grid"><div class="blog-thumb"><a href="http://samawatmarketing.com/project-detail.php?id=8"><img src="./Samawat5_files/category-8.png" alt="&#39;.$row[&#39;title&#39;].&#39;" class="img-fluid thumb lazy entered loading" style="height: 300px !important;" data-ll-status="loading"></a></div> <div class="blog-info"><div class="post-meta"><p class="d-inline-block"><i aria-hidden="true" class="fa fa-map-marker"></i>
+                                                        Bahria Town Karachi                                                    </p></div></div> <div class="blog-body"><h4 class="bl-title"><a href="http://samawatmarketing.com/project-detail.php?id=8" title="Bahria Town Karachi 2">
+                                                        Bahria Town Karachi 2                                                    </a></h4> <p>Experience a New Level of Living in Bahria Town Karachi 2, the highly anticipated housing community in Karachi.                                                </p> <a href="http://samawatmarketing.com/project-detail.php?id=8" class="bl-continue">Continue</a></div></div></div> <div class="col-lg-4 col-md-6"><div class="blog-wrap-grid"><div class="blog-thumb"><a href="http://samawatmarketing.com/project-detail.php?id=9"><img src="./Samawat5_files/news-9.png" alt="&#39;.$row[&#39;title&#39;].&#39;" class="img-fluid thumb lazy entered loading" style="height: 300px !important;" data-ll-status="loading"></a></div> <div class="blog-info"><div class="post-meta"><p class="d-inline-block"><i aria-hidden="true" class="fa fa-map-marker"></i>
+                                                        in Housing Society                                                    </p></div></div> <div class="blog-body"><h4 class="bl-title"><a href="http://samawatmarketing.com/project-detail.php?id=9" title="Bahria Town Karachi 2">
+                                                        Faisal Town Phase 2                                                    </a></h4> <p>Faisal Town Phase 2 is a reliable and promising residential society located on M-2, nearby Thalian Interchange, just outside Islamabad ...
+
+                                                </p> <a href="http://samawatmarketing.com/project-detail.php?id=9" class="bl-continue">Continue</a></div></div></div> <div class="col-lg-4 col-md-6"><div class="blog-wrap-grid"><div class="blog-thumb"><a href="http://samawatmarketing.com/project-detail.php?id=10"><img src="./Samawat5_files/category-10.png" alt="&#39;.$row[&#39;title&#39;].&#39;" class="img-fluid thumb lazy entered loading" style="height: 300px !important;" data-ll-status="loading"></a></div> <div class="blog-info"><div class="post-meta"><p class="d-inline-block"><i aria-hidden="true" class="fa fa-map-marker"></i>
+                                                        St. Anthony's Church, The Mall                                                    </p></div></div> <div class="blog-body"><h4 class="bl-title"><a href="http://samawatmarketing.com/project-detail.php?id=10" title="Bahria Town Karachi 2">
+                                                        Kingdom Valley                                                    </a></h4> <p>Kingdom Valley Islamabad is an economic housing project under Prime Minister's Naya Pakistan Housing Scheme. Check to book details, features, and plot prices.
+
+                                                </p> <a href="http://samawatmarketing.com/project-detail.php?id=10" class="bl-continue">Continue</a></div></div></div> <div class="col-lg-4 col-md-6"><div class="blog-wrap-grid"><div class="blog-thumb"><a href="http://samawatmarketing.com/project-detail.php?id=11"><img src="./Samawat5_files/category-11.png" alt="&#39;.$row[&#39;title&#39;].&#39;" class="img-fluid thumb lazy entered loading" style="height: 300px !important;" data-ll-status="loading"></a></div> <div class="blog-info"><div class="post-meta"><p class="d-inline-block"><i aria-hidden="true" class="fa fa-map-marker"></i>
+                                                        Cathedral Church of Resurrection                                                    </p></div></div> <div class="blog-body"><h4 class="bl-title"><a href="http://samawatmarketing.com/project-detail.php?id=11" title="Bahria Town Karachi 2">
+                                                        Park View City                                                    </a></h4> <p>Secure gated communities in Lahore and Islamabad with world-class amenities. A housing project that focuses on both beauty and functionality. Good Air Quality Index. Ease of access ...                                                </p> <a href="http://samawatmarketing.com/project-detail.php?id=11" class="bl-continue">Continue</a></div></div></div> <div class="col-lg-4 col-md-6"><div class="blog-wrap-grid"><div class="blog-thumb"><a href="http://samawatmarketing.com/project-detail.php?id=12"><img src="./Samawat5_files/category-12.png" alt="&#39;.$row[&#39;title&#39;].&#39;" class="img-fluid thumb lazy entered loading" style="height: 300px !important;" data-ll-status="loading"></a></div> <div class="blog-info"><div class="post-meta"><p class="d-inline-block"><i aria-hidden="true" class="fa fa-map-marker"></i>
+                                                         in Housing Society                                                    </p></div></div> <div class="blog-body"><h4 class="bl-title"><a href="http://samawatmarketing.com/project-detail.php?id=12" title="Bahria Town Karachi 2">
+                                                        Nova City Islamabad                                                    </a></h4> <p>5 marla, 10 marla and 1 kanal residential plots. Available on 48 months easy payment plan. Adjacent to Hakla-DI Khan Motorway M14 Laddan Shah crossing. Approved by PHATA.
+
+                                                </p> <a href="http://samawatmarketing.com/project-detail.php?id=12" class="bl-continue">Continue</a></div></div></div> <div class="col-lg-4 col-md-6"><div class="blog-wrap-grid"><div class="blog-thumb"><a href="http://samawatmarketing.com/project-detail.php?id=13"><img src="./Samawat5_files/category-13.png" alt="&#39;.$row[&#39;title&#39;].&#39;" class="img-fluid thumb lazy entered loading" style="height: 300px !important;" data-ll-status="loading"></a></div> <div class="blog-info"><div class="post-meta"><p class="d-inline-block"><i aria-hidden="true" class="fa fa-map-marker"></i>
+                                                         in Residential Apartments                                                     </p></div></div> <div class="blog-body"><h4 class="bl-title"><a href="http://samawatmarketing.com/project-detail.php?id=13" title="Bahria Town Karachi 2">
+                                                        AL Karim Residence                                                    </a></h4> <p>This is the best time to invest in Islamabad Real Estate. AL Karim Residence offer Studio, 1 &amp; 2 bed Modern Luxury Apartments Wide Corridor with Spacious Passages
+
+                                                </p> <a href="http://samawatmarketing.com/project-detail.php?id=13" class="bl-continue">Continue</a></div></div></div> <div class="col-lg-4 col-md-6"><div class="blog-wrap-grid"><div class="blog-thumb"><a href="http://samawatmarketing.com/project-detail.php?id=14"><img src="./Samawat5_files/category-14.png" alt="&#39;.$row[&#39;title&#39;].&#39;" class="img-fluid thumb lazy" style="height: 300px !important;"></a></div> <div class="blog-info"><div class="post-meta"><p class="d-inline-block"><i aria-hidden="true" class="fa fa-map-marker"></i>
+                                                        Blue World City                                                    </p></div></div> <div class="blog-body"><h4 class="bl-title"><a href="http://samawatmarketing.com/project-detail.php?id=14" title="Bahria Town Karachi 2">
+                                                        Blue World City                                                    </a></h4> <p>Blue World City Islamabad is a low-cost housing project that will revolutionize our country�s perspective on low-cost housing. Moreover, people who wish to invest in real estate on ...                                                </p> <a href="http://samawatmarketing.com/project-detail.php?id=14" class="bl-continue">Continue</a></div></div></div> <div class="col-lg-4 col-md-6"><div class="blog-wrap-grid"><div class="blog-thumb"><a href="http://samawatmarketing.com/project-detail.php?id=15"><img src="./Samawat5_files/category-15.png" alt="&#39;.$row[&#39;title&#39;].&#39;" class="img-fluid thumb lazy" style="height: 300px !important;"></a></div> <div class="blog-info"><div class="post-meta"><p class="d-inline-block"><i aria-hidden="true" class="fa fa-map-marker"></i>
+                                                         Housing Society                                                     </p></div></div> <div class="blog-body"><h4 class="bl-title"><a href="http://samawatmarketing.com/project-detail.php?id=15" title="Bahria Town Karachi 2">
+                                                        MPCHS Multi Gardens Phase 2                                                    </a></h4> <p>Investors, property buyers, and home seekers across twin cities are in for a treat as Multi Professional Cooperative Housing Society (MPCHS) come up with its mega housing project�  ...                                                </p> <a href="http://samawatmarketing.com/project-detail.php?id=15" class="bl-continue">Continue</a></div></div></div> <div class="col-lg-4 col-md-6"><div class="blog-wrap-grid"><div class="blog-thumb"><a href="http://samawatmarketing.com/project-detail.php?id=16"><img src="./Samawat5_files/category-8.png" alt="&#39;.$row[&#39;title&#39;].&#39;" class="img-fluid thumb lazy" style="height: 300px !important;"></a></div> <div class="blog-info"><div class="post-meta"><p class="d-inline-block"><i aria-hidden="true" class="fa fa-map-marker"></i>
+                                                        Bahria Town Karachi                                                    </p></div></div> <div class="blog-body"><h4 class="bl-title"><a href="http://samawatmarketing.com/project-detail.php?id=16" title="Bahria Town Karachi 2">
+                                                        Bahria Town Karachi 2                                                    </a></h4> <p>Experience a New Level of Living in Bahria Town Karachi 2, the highly anticipated housing community in Karachi.                                                </p> <a href="http://samawatmarketing.com/project-detail.php?id=16" class="bl-continue">Continue</a></div></div></div> <div class="col-lg-4 col-md-6"><div class="blog-wrap-grid"><div class="blog-thumb"><a href="http://samawatmarketing.com/project-detail.php?id=17"><img src="./Samawat5_files/category-17.png" alt="&#39;.$row[&#39;title&#39;].&#39;" class="img-fluid thumb lazy" style="height: 300px !important;"></a></div> <div class="blog-info"><div class="post-meta"><p class="d-inline-block"><i aria-hidden="true" class="fa fa-map-marker"></i>
+                                                        New City Paradise, Burhan Interchange, Burhan, Attock, Punjab                                                    </p></div></div> <div class="blog-body"><h4 class="bl-title"><a href="http://samawatmarketing.com/project-detail.php?id=17" title="Bahria Town Karachi 2">
+                                                        New City Paradise Islamabad                                                    </a></h4> <p> New City Paradise is a 4,256 Kanal PHATA-approved housing society developed by developers of New City Wah and located at the 330-feet GT ...                                                </p> <a href="http://samawatmarketing.com/project-detail.php?id=17" class="bl-continue">Continue</a></div></div></div></div> <br> <div class="colm10 col-sm-12"><nav class="d-flex justify-content-center pt-3"></nav></div></div></div></div></div></section></div></div>
+
+    <div class="widget_shortcode">
+
+        <div class="raw-html-embed">
+            <section class="theme-bg call-to-act-wrap">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+
+                            <div class="call-to-act">
+                                <div class="call-to-act-head">
+                                    <h3>Want to Become a Real Estate Agent?</h3>
+                                    <span>We'll help you to grow your career and growth.</span>
+                                </div>
+                                <a href="http://samawatmarketing.com/register.html" class="btn btn-call-to-act">Sign Up Today</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+    </div>
+
+    <!-- ============================ Footer Start ================================== -->
+    
+
+
+<div class="footer-samawat">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 col-lg-3 col-sm-12">
+                <a class="nav-brand" href="http://samawatmarketing.com/index.php"><img class="logo" src="./Samawat5_files/samawat-logo.png" alt="" style="height: 85px"></a>
+                <div class="office-address">
+                    <p> Samawat Marketing is a leading Real Estate Marketing Company in
+                        Pakistan. Whilst we're speaking approximately investment, assets or
+                        advertising; accept as true with, great and satisfactions are 3 primary
+                        things to attention on. </p>
+                </div>
+                <div class="address-icons">
+                    <a href="http://samawatmarketing.com/index.php"><i class="fa fa-facebook-square" aria-hidden="true"></i>
+                    </a>
+                    <a href="http://samawatmarketing.com/index.php"><i class="fa fa-whatsapp"></i></a>
+                    <a href="http://samawatmarketing.com/index.php"><i class="fa fa-instagram"></i></a>
+                    <a href="http://samawatmarketing.com/index.php"><i class="fa fa-linkedin"></i></a>
+                </div>
+            </div>
+            <div class="col-md-3 col-lg-3 col-sm-12">
+                <div class="sec-heading center ">
+                    <h3 class="visionss">Projects</h3>
+                    <ul>
+                        <li>
+                            <a class="visions_footer" href="http://samawatmarketing.com/index.php"> <i class="fa fa-arrow-right"></i> &nbsp;
+                                &nbsp;Islamabad</a>
+                        </li>
+                        <li>
+                            <a class="visions_footer" href="http://samawatmarketing.com/index.php"> <i class="fa fa-arrow-right"></i> &nbsp;
+                                &nbsp;Rawalpindi</a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+            <div class="col-md-3 col-lg-3 col-sm-12">
+                <div class="sec-heading ">
+                    <h3 class="visionss">Head Office</h3>
+                    <ul class="footer--address">
+                        <li>
+                            <a class="" href="http://samawatmarketing.com/index.php"> <i class="fa fa-map-marker"></i> &nbsp; &nbsp;Second Floor Hajvairy
+                                Plaza, Opposite Parade Ground Metro Station, D-Chowk Blue Area , Islamabad, Pakistan</a>
+                        </li>
+                        <li class="my-3">
+                            <a class="" href="tel:923320000222"> <i class="	fa fa-phone" aria-hidden="true"></i>
+                                &nbsp; &nbsp;+92 332 000 0222</a>
+                        </li>
+                        <li class="my-3">
+                            <a class="" href="http://samawatmarketing.com/index.php"> <i class="fa fa-envelope" aria-hidden="true"></i>
+                                &nbsp; &nbsp;info@samawatmarketing.com</a>
+                        </li>
+                        <li class="my-3">
+                            <a class="" href="https://api.whatsapp.com/send?phone=+923320000222&amp;text=Welcome%20To%20Samawat%20Marketing">
+                                <i class="fab fa-whatsapp" aria-hidden="true"></i>
+                                &nbsp; &nbsp;+92 332 000 0222</a>
+                        </li>
+
+                    </ul>
+                </div>
+
+            </div>
+            <div class="col-md-3 col-lg-3 colsm-12">
+                <div class="office-location">
+                    <iframe src="./Samawat5_files/embed.html" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="social-iconss-all">
+        <div class="container">
+            <ul class="social-wraps">
+
+            
+ 
+
+                <li class="facebook">
+                    <a href="https://www.facebook.com/samawatmarketing">
+                        <span class="social-color-schem fab fa-facebook"></span>
+                        <strong class="icon-title-style">Like Us</strong>
+                    </a>
+                </li>
+                <li class="twitter">
+                    <a href="https://www.youtube.com/channel/UCk3CkqoeA5TP_hV2FtHv1rA">
+                        <span class="social-color-schem fab fa-youtube"></span>
+                        <strong class="icon-title-style">Youtube</strong>
+                    </a>
+                </li>
+             
+                <li class="vimeo">
+                    <a href="https://www.instagram.com/samawatmarketing">
+                        <span class="social-color-schem fab fa-instagram"></span>
+                        <strong class="icon-title-style">Instagram</strong>
+                    </a>
+                </li>
+                <li class="pin">
+                    <a href="https://api.whatsapp.com/send?phone=+923320000222&amp;text=Welcome%20To%20Samawat%20Marketing">
+                        <span class="social-color-schem fab fa-whatsapp"></span>
+                        <strong class="icon-title-style">Whatsapp</strong>
+                    </a>
+                </li>
+                <li class="dribble">
+                    <a href="https://www.linkedin.com/company/samawat-marketing">
+                        <span class="social-color-schem fab fa-linkedin"></span>
+                        <strong class="icon-title-style">LinkedIn</strong>
+                    </a>
+                </li>
+    
+            </ul>
+        </div>
+    </div>
+
+
+</div>
+
+
+
+<div class="inner-footer">
+    <div class="container">
+        <p>©2022. All rights reserved. Developed By <a class="visionss" href="https://k2peaktechnologies.com/"> K2 Peak
+                Technologies</a></p>
+    </div>
+</div>
+<!-- <footer class="dark-footer skin-dark-footer">
+        <div class="py-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-4">
+                        <div class="footer-widget">
+                            <img src="storage/img-20221102-wa0141.jpg" class="img-footer" style="max-height: 38px"
+                                alt="">
+                            <div class="footer-add">
+                                <p><i class="fas fa-map-marker-alt"></i> head office: Second Floor Hajvairy Plaza,
+                                    Opposite Parade Ground Metro Station, D-Chowk Blue Area , Islamabad, Pakistan</p>
+                                <p><i class="fas fa-phone-square"></i> +92 332 000 0222</p>
+                                <p><i class="fas fa-envelope"></i> info@samawatmarketing.com</p>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="row">
+                            <div class="col-sm-4">
+                                <div class="footer-widget">
+                                    <h4 class="widget-title">About</h4>
+                                    <ul>
+                                        <li>
+                                            <a href="about-us.php">
+                                                <span>About us</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="contact.php">
+                                                <span>Contact us</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                <span>Terms &amp; Conditions</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+
+                                </div>
+                            </div>
+                            <div class="col-sm-4">
+                                <div class="footer-widget">
+                                    <h4 class="widget-title">MORE INFORMATION</h4>
+                                    <ul>
+                                        <li>
+                                            <a href="projects.php">
+                                                <span>All Projects</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                <span>Houses for sale</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                <span>Houses for rent</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+
+                                </div>
+                            </div>
+                            <div class="col-sm-4">
+                                <div class="footer-widget">
+                                    <h4 class="widget-title">NEWS</h4>
+                                    <ul>
+                                        <li>
+                                            <a href="#">
+                                                <span>Latest news</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                <span>House architecture</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                <span>House design</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                <span>Building materials</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6">
+                        <div class="widget_shortcode">
+
+                            <div class="raw-html-embed">
+                                <div class="footer-widget">
+                                    <h4 class="widget-title">Download Apps</h4>
+                                    <a href="#" class="other-store-link">
+                                        <div class="other-store-app">
+                                            <div class="os-app-icon">
+                                                <i class="lni-playstore theme-cl"></i>
+                                            </div>
+                                            <div class="os-app-caps">
+                                                Google Play
+                                                <span>Get It Now</span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <a href="#" class="other-store-link">
+                                        <div class="other-store-app">
+                                            <div class="os-app-icon">
+                                                <i class="lni-apple theme-cl"></i>
+                                            </div>
+                                            <div class="os-app-caps">
+                                                App Store
+                                                <span>Now it Available</span>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="footer-widget newsletter widget_newsletter">
+                            <div class="header-title-2">
+                                <h4 class="widget-title">
+                                    <span>Subscribe</span>
+                                </h4>
+                            </div>
+                            <form class="form-subcriber newsletter-form mt-30"
+                                action="#" method="post">
+                                <input type="hidden" name="_token" value="iwRzunXISlAErugc15sEm4nbFfgMSAZTJ6tRZbDX">
+                                <div class="form-group d-flex">
+                                    <input type="email" name="email" class="form-control bg-white font-small"
+                                        placeholder="Enter your email">
+                                    <button class="btn bg-dark text-white" type="">Subscribe</button>
+                                </div>
+                            </form>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-6">
+                        <p class="mb-0">©2022. All rights reserved. Developed By K2 Peak Technologies</p>
+                    </div>
+
+                    <div class="col-lg-6 col-md-6">
+                        <ul class="footer-bottom-social">
+                            <li><a href="https://www.facebook.com/samawatmarketing" target="_blank" title="Facebook"><i
+                                        class="ti-facebook"></i></a></li>
+                            <li><a href="https://www.twitter.com/" target="_blank" title="Twitter"><i
+                                        class="ti-twitter"></i></a></li>
+                            <li><a href="https://instagram.com/samawatmarketing" target="_blank" title="Instagram"><i
+                                        class="ti-instagram"></i></a></li>
+                            <li><a href="https://www.linkedin.com/" target="_blank" title="Linkedin"><i
+                                        class="ti-linkedin"></i></a></li>
+                            <li><a href="https://www.pinterest.com/" target="_blank" title="Pinterest"><i
+                                        class="ti-pinterest"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer> -->    <!-- ============================ Footer End ================================== -->
+
+    <a id="back2Top" class="top-scroll" title="Back to top" href="http://samawatmarketing.com/index.php#" style="display: inline;"><i class="ti-arrow-up"></i></a>
+    
+
+    <script src="./Samawat5_files/popper.min.js.download"></script>
+    <script src="./Samawat5_files/bootstrap.min.js.download"></script>
+    <script src="./Samawat5_files/rangeslider.js.download"></script>
+    <script src="./Samawat5_files/select2.min.js.download"></script>
+    <script src="./Samawat5_files/jquery.magnific-popup.min.js.download"></script>
+    <script src="./Samawat5_files/slick.js.download"></script>
+    <script src="./Samawat5_files/slider-bg.js.download"></script>
+    <script src="./Samawat5_files/lightbox.js.download"></script>
+    <script src="./Samawat5_files/imagesloaded.js.download"></script>
+    <script src="./Samawat5_files/lazyload.min.js.download"></script>
+    <script src="./Samawat5_files/components707e.js.download"></script>
+    <script src="./Samawat5_files/wishlist707e.js.download"></script>
+    <script src="./Samawat5_files/app707e.js.download"></script>
+    <script src="./Samawat5_files/cookie-consente209.js.download"></script>
+    <script src="./Samawat5_files/language-publice209.js.download"></script>
+
+
+
+    <div class="js-cookie-consent cookie-consent cookie-consent-full-width" style="background-color: #000000 !important; color: #FFFFFF !important;">
+        <div class="cookie-consent-body" style="max-width: 1170px;">
+            <span class="cookie-consent__message">
+                Your experience on this site will be improved by allowing cookies
+                <a href="http://resido.local/cookie-policy">Cookie Policy</a>
+            </span>
+
+            <button class="js-cookie-consent-agree cookie-consent__agree" style="background-color: #000000 !important; color: #FFFFFF !important; border: 1px solid #FFFFFF !important;" fdprocessedid="1trgz">
+                Allow cookies
+            </button>
+        </div>
+    </div>
+    <div data-site-cookie-name="cookie_for_consent"></div>
+    <div data-site-cookie-lifetime="7300"></div>
+    <div data-site-cookie-domain="samawatmarketing.com"></div>
+    <div data-site-session-secure=""></div>
+
+
+
+
+
+<div id="lightboxOverlay" tabindex="-1" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" tabindex="-1" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt=""><div class="lb-nav"><a class="lb-prev" aria-label="Previous image" href="http://samawatmarketing.com/index.php"></a><a class="lb-next" aria-label="Next image" href="http://samawatmarketing.com/index.php"></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div></body></html>
