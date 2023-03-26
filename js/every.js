@@ -1,3 +1,3 @@
 let array = [3, 5, 6, 8];
-array.find((n) => n % 2 === 0); //6
+array.every((x) => x < 6); // true
 console.log(array);

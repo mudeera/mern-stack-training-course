@@ -1,3 +1,3 @@
 let array = [3, 5, 6, 8];
-array.find((n) => n % 2 === 0); //6
+array.map((n) => n * 2); // [6,8,16,12]
 console.log(array);

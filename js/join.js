@@ -1,3 +1,3 @@
-const myarray = ['1', '2', '3', '4', '5'];
-myarray.join('-');
-console.log(myarray);
+let myarray = ['1', '2', '3', '4', '5'];
+let array = myarray.join('_');
+console.log(array);
