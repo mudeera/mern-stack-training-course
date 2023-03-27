@@ -1,3 +1,3 @@
-let array = [3, 5, 6, 8];
-array.find((n) => n % 2 === 0); //6
-console.log(array);
+let array = [3, 5, 13, 15, 44];
+let arr = array.find((n) => n % 2 === 0); // 2
+console.log(arr);
