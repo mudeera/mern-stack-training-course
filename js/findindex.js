@@ -1,3 +1,3 @@
-let array = [3, 5, 6, 8];
-array.findIndex((n) => n % 2 !== 0); // 2
-console.log(array);
+let array = [2, 4, 3, 5];
+let arr = array.findIndex((n) => n % 2 !== 0); // 2
+console.log(arr);
